@@ -3,7 +3,7 @@ import { FaGithub } from 'react-icons/fa'
 
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import {AiOutlineLinkedin} from "react-icons/ai"
-import resume from "../details/chitrarasuResume.pdf.pdf"
+import resume from "../details/chitrarasu-resume.pdf"
 const SocialLinks = () => {
     const links = [
      
