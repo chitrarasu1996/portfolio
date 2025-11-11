@@ -25,6 +25,10 @@ width: 350px !important;
   width: 100px !important;
   height: 100px !important;
 }
+.highLight{
+    color: white !important;
+    font-weight: bold !important;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
